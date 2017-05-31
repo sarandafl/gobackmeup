@@ -13,7 +13,7 @@
 
 package main
 
-import "git.sarandafl.duckdns.org/sarandafl/gobackmeup/src/master/cmd"
+import "github.com/sarandafl/gobackmeup/cmd"
 
 func main() {
 	cmd.Execute()
